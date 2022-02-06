@@ -8,8 +8,9 @@ npm install a-life
 ```
 
 📩・**Want to reach? Add Katsumii#3979 on [discord](https://discord.com)**
-</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katsumiih&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Katsumiih" /> </p>
+
 🌐・Website: https://katsumi.ml
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katsumiih&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Katsumiih" /> </p>
 
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> 
