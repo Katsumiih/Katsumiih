@@ -17,8 +17,6 @@ npm install a-life
   **Code Quality A+**
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Katsumiih&show_icons=true)  
-  **Language used in my Projects**
-  
-  </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Katsumiih&show_icons=true&locale=en&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Katsumiih" /> </p>
+
    
 <a href="https://katsumii.ml" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
