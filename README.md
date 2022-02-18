@@ -7,7 +7,7 @@
 npm install a-life
 ```
 
-📩・**Want to reach? Add Katsumii#3979 on [discord](https://discord.com)**
+📩・**Want to reach? Add Netsukii#3979 on [discord](https://discord.com)**
 
 🌐・Website: https://katsumi.ml
 
