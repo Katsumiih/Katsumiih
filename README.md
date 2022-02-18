@@ -12,6 +12,7 @@ npm install a-life
 🌐・Website: https://katsumi.ml
 
 <h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
+<p align="left"> <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fjava-icon-png-2.html&psig=AOvVaw0SVy_WSrOzAm1STaUUEoaf&ust=1645291048332000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCdg_fgifYCFQAAAAAdAAAAABAD" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficon-library.com%2Ficon%2Fjava-icon-png-2.html&psig=AOvVaw0SVy_WSrOzAm1STaUUEoaf&ust=1645291048332000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMCdg_fgifYCFQAAAAAdAAAAABAD" alt="java" width="45" height="45"/> </a>
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> </a>
   
   **Code Quality A+**
