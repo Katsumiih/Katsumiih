@@ -1,18 +1,24 @@
+<h1 align="center">アンドレア</h1>
+<p align="center">  
+  <img src="https://github.com/NetsukiiDev/NetsukiiDev/assets/71921943/18232b2d-5d27-40e5-8a56-3e5e08e48120"></img>
+</p>
 
 ```js
 npm install a-life
 ```
+<div align="center">
+  <h3 style="font-family:poppins">Links 🔗</h3>
+  💼・<a href="https://www.netsukii.it">Portfolio</a>
 
-📩・**Want to reach? Add Netsukii#3979 on [discord](https://discord.com)**
+  <h3>Languages</h3>
 
-🌐・Website: https://Netsukii.ml
+  <img alt="HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
-<h3 style="font-family:verdana" align="left">Languages I know/have experience in:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> </a>
-  
-  **Code Quality A+**
-  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Netsukii&show_icons=true)  
+  <h3>GitHub Stats</h3>
 
-   
-<a href="https://Netsukii" target="_blank"><img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=NetsukiiDev&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
+  </picture>
+</div>
