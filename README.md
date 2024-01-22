@@ -22,3 +22,11 @@ npm install a-life
     <img src="https://github-readme-stats.vercel.app/api?username=NetsukiiDev&hide_progress=false&layout=compact&hide=glsl,batchfile&hide_title=true&show_icons=true&hide_border=true&border_radius=15&theme=omni"/>
   </picture>
 </div>
+
+<br>
+<p align="center">
+  <a href="https://www.netsukii.it"><img height="100em" src="https://count.getloli.com/get/@:NetsukiiDev?theme=rule34"/></a>
+</p>
+
+<!-- Stolen from Narumii (https://github.com/narumii). Sorry XD -->
+<img src="https://github.com/narumii/narumii/assets/57463654/cba93ead-06f4-4194-bd62-b33ea4b6c7f2" width="100%">
